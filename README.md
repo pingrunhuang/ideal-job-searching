@@ -12,3 +12,15 @@ The very first question is: what is my ideal job.
 - analyze the requirement for this position: work out a jupyter notebook for provisioning common requirement for this position
 - get a list of back up company
 - keep working on leetcode competition 
+- keep updating resumé
+
+
+___
+# backup position
+- [ebay data scientist](https://jobs.ebayinc.com/job/-/-/403/4177488?source=CIS_Job%20Board%20-%20InDeed)
+- [Data Scientist and Cognitive Software Engineer officer](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Hangzhou/Data-Scientist-and-Cognitive-Software-Engineer-officer_R-577439-1?source=APPLICANT_SOURCE-INDEED)
+- [citadel](https://www.citadelsecurities.com/careers/details/quantitative-researcher-full-time/)
+- [bnp](https://bnpparibasgt.taleo.net/careersection/gt/jobdetail.ftl?lang=en&src=JB-10800&job=GLO001618)
+- [deloitte](https://cn.indeed.com/职位显示?jk=27ca69a8fd65a9d8&tk=1cag3kgl80u290l9&from=serp&vjs=3)
+- [airbnb](https://zh.airbnb.com/careers/departments/position/1000516)
+- [airbnb](https://zh.airbnb.com/careers/departments/position/995420)
