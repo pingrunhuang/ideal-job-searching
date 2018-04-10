@@ -24,3 +24,4 @@ ___
 - [deloitte](https://cn.indeed.com/职位显示?jk=27ca69a8fd65a9d8&tk=1cag3kgl80u290l9&from=serp&vjs=3)
 - [airbnb](https://zh.airbnb.com/careers/departments/position/1000516)
 - [airbnb](https://zh.airbnb.com/careers/departments/position/995420)
+- [indeed](https://www.indeed.jobs/career/JobDetail/Data-Scientist/6420): data scientists
